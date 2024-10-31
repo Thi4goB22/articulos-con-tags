@@ -1,0 +1,33 @@
+git lod
+
+git tag v0.2.0
+
+git lod
+
+git lod v0.1.0 433f33d
+
+git lod 
+
+git checkout v0.1.0
+
+git status
+
+git lod
+
+git checkout -b fix-0.1.1
+
+git master
+
+git checkout master
+
+git lod
+
+git tag
+
+git lod
+
+git tag v0.1.1 1b660bf
+
+git tag -h
+
+git tag -d v0.1.1
